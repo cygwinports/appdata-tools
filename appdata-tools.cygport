@@ -1,0 +1,10 @@
+NAME="appdata-tools"
+VERSION=0.1.7
+RELEASE=1
+CATEGORY="Devel"
+SUMMARY="AppData developer tools"
+DESCRIPTION="AppData allows software installers to display screenshots and
+(possibly localized) long descriptions for applications."
+HOMEPAGE="http://people.freedesktop.org/~hughsient/appdata/"
+SRC_URI="https://github.com/hughsie/appdata-tools/archive/appdata_tools_${VERSION//\./_}.tar.gz"
+SRC_DIR="${NAME}-${NAME//-/_}_${VERSION//\./_}"
