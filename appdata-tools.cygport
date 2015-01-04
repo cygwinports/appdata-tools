@@ -1,5 +1,5 @@
 NAME="appdata-tools"
-VERSION=0.1.7
+VERSION=0.1.8
 RELEASE=1
 CATEGORY="Devel"
 SUMMARY="AppData developer tools"
